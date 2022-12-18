@@ -1,0 +1,102 @@
+body {
+  margin: 0;
+  padding: 10;
+  background-color: #EEEEEE;
+  font-family: Helvetica;
+}
+
+a {
+  color: #00FF00;
+}
+
+
+#container{
+  width: 1200 px;
+  background-color: #EEEEEE;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+}
+
+#header {
+  clear: both;
+  color: black;
+  text-align: center;
+  width: 600 px;
+  height: 50;
+}
+
+.nav ul{
+  height: 60px;
+  width: 700px;
+  margin: 0 auto;
+}
+
+.nav ul li {
+  list-style-type: none;
+  width: 150px;
+  float: left;
+  border-right: 3px solid #CCC;
+  border-left: 2px solid #CCC;
+  border-bottom: 3px solid #CCC;
+  border-top: 3px solid #CCC;
+  text-align: center;
+}
+
+.nav ul li a {
+  text-decoration: none;
+  color: black;
+  line-height: 50px;
+  display: block;
+}
+
+.nav ul li a:hover {
+  background-color: black;
+  color: #00FF00; 
+}
+
+#micro {
+  margin: 0 auto;
+  background-color: black;
+  color: #EBC56C; 
+  width: 700px;
+  height: 450px;
+}
+
+#redbull {
+  margin: 0 auto;
+  background-color: black;
+  color: #61BCE7; 
+  width: 700px;
+  height: 400px;
+}
+#music {
+  margin: 0 auto;
+  background-color: black;
+  color: #00FF00; 
+  width: 700px;
+  height: 400px;
+}
+
+#chess {
+  margin: 0 auto;
+  background-color: black;
+  color: #00FF00; 
+  width: 700px;
+  height: 450px;
+}
+
+#covid {
+  margin: 0 auto;
+  background-color: black;
+  color: #F66060; 
+  width: 700px;
+  height: 500px;
+}
+
+#footer {
+  clear: both;
+  text-align: center;
+}
+
+
